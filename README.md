@@ -20,15 +20,38 @@ Current Support spider service
 
 ## Getting Started
 
+### Install Python: https://www.python.org/
+
+### Install scrapy
+```
+pip install scrapy
+```
+
+### Install scrapyd
+```
+pip install scrapyd
+```
+
+### Start scrapyd
+```
+scrapyd
+```
+Interface: http://localhost:6800
+
+### Install scrapyd-client
+```
+git clone https://github.com/scrapy/scrapyd-client
+cd scrapyd-client
+python setup.py install
+```
 
 ### Installing
-
 
 ```
 pip install spiderkeeper
 ```
 
-### Install from source
+### Or install from source
 ```
 git clone https://github.com/tdhungit/SpiderKeeper.git
 cd SpiderKeeper
