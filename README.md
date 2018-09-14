@@ -1,8 +1,4 @@
 # SpiderKeeper
-
-[![Latest Version](http://img.shields.io/pypi/v/SpiderKeeper.svg)](https://pypi.python.org/pypi/SpiderKeeper)
-[![Python Versions](http://img.shields.io/pypi/pyversions/SpiderKeeper.svg)](https://pypi.python.org/pypi/SpiderKeeper)
-[![The MIT License](http://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/DormyMo/SpiderKeeper/blob/master/LICENSE)
    
 A scalable admin ui for spider service 
 
@@ -30,6 +26,13 @@ Current Support spider service
 
 ```
 pip install spiderkeeper
+```
+
+### Install from source
+```
+git clone https://github.com/tdhungit/SpiderKeeper.git
+cd SpiderKeeper
+python setup.py install
 ```
 
 ### Deployment
@@ -99,18 +102,3 @@ See also the list of [contributors](https://github.com/DormyMo/SpiderKeeper/cont
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
-## Contributing
-
-Contributions are welcomed!
-
-## 交流反馈
-
-QQ群：
-
-1群: 389688974（已满）
-
-2群: 285668943
-
-## 捐赠
-![Contact](https://raw.githubusercontent.com/DormyMo/SpiderKeeper/master/screenshot/donate_wechat.png)

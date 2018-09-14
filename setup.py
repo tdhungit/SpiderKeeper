@@ -15,10 +15,10 @@ setup(
     version=__version__,
     description='Admin ui for spider service',
     long_description=
-    'Go to https://github.com/DormyMo/SpiderKeeper/ for more information.',
+    'Go to https://github.com/tdhungit/SpiderKeeper.',
     author=__author__,
-    author_email='modongming91@gmail.com',
-    url='https://github.com/DormyMo/SpiderKeeper/',
+    author_email='tdhungit@gmail.com',
+    url='https://github.com/tdhungit/SpiderKeeper/',
     license='MIT',
     include_package_data=True,
     packages=find_packages(),
